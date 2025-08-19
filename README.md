@@ -17,7 +17,7 @@ This project implements a real-time facial recognition and attendance system usi
 
 ```bash
 # Clone the repository
-git clone https://github.com/AjaoFaisal/facial-recognition-and-attendance.git
+git clone https://github.com/faisal-ajao/facial-recognition-and-attendance.git
 cd facial-recognition-and-attendance
 
 # Create a virtual environment (optional but recommended)
