@@ -1,10 +1,10 @@
-# 👤 Facial Recognition and Attendance System
+# Facial Recognition and Attendance System
 
 This project implements a real-time facial recognition and attendance system using Python, OpenCV, and the `face_recognition` library. It detects faces via webcam, compares them with known faces, and logs attendance automatically.
 
 ---
 
-## 🚀 Features
+## Features
 - Real-time face detection and recognition.
 - Logs attendance with timestamps in a CSV file.
 - Highlights recognized faces in green and unknown faces in red.
@@ -13,7 +13,7 @@ This project implements a real-time facial recognition and attendance system usi
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 # Clone the repository
@@ -29,7 +29,7 @@ venv\Scripts\activate    # Windows
 pip install -r requirements.txt
 ```
 
-## ▶️ Usage
+## Usage
 
 ### Basic Face Recognition
 Run:
@@ -47,12 +47,12 @@ python attendance_project.py
 
 ---
 
-## 📊 Output Example (Video)
+## Output Example (Video)
 [![Watch the output](https://img.youtube.com/vi/1zLKt2gpCck/hqdefault.jpg)](https://youtu.be/1zLKt2gpCck?feature=shared)
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 facial-recognition-and-attendance/
 ├── known_faces/             # Folder with reference images
@@ -66,7 +66,7 @@ facial-recognition-and-attendance/
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 - Python 3.11.5
 - OpenCV
 - face_recognition
@@ -75,7 +75,7 @@ facial-recognition-and-attendance/
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ## Install dependencies
